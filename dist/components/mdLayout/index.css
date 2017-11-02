@@ -82,11 +82,11 @@
     padding-right: 12px;
     padding-left: 12px;
 }
-.md-gutter .md-column {
+.md-gutter.md-column {
   margin-top: -12px;
   margin-bottom: -12px;
 }
-.md-gutter .md-column > .md-layout {
+.md-gutter.md-column > .md-layout {
     padding-top: 12px;
     padding-bottom: 12px;
 }
@@ -98,11 +98,11 @@
     padding-right: 4px;
     padding-left: 4px;
 }
-.md-gutter-8 .md-column {
+.md-gutter-8.md-column {
   margin-top: -4px;
   margin-bottom: -4px;
 }
-.md-gutter-8 .md-column > .md-layout {
+.md-gutter-8.md-column > .md-layout {
     padding-top: 4px;
     padding-bottom: 4px;
 }
@@ -114,11 +114,11 @@
     padding-right: 8px;
     padding-left: 8px;
 }
-.md-gutter-16 .md-column {
+.md-gutter-16.md-column {
   margin-top: -8px;
   margin-bottom: -8px;
 }
-.md-gutter-16 .md-column > .md-layout {
+.md-gutter-16.md-column > .md-layout {
     padding-top: 8px;
     padding-bottom: 8px;
 }
@@ -130,11 +130,11 @@
     padding-right: 12px;
     padding-left: 12px;
 }
-.md-gutter-24 .md-column {
+.md-gutter-24.md-column {
   margin-top: -12px;
   margin-bottom: -12px;
 }
-.md-gutter-24 .md-column > .md-layout {
+.md-gutter-24.md-column > .md-layout {
     padding-top: 12px;
     padding-bottom: 12px;
 }
@@ -146,11 +146,11 @@
     padding-right: 20px;
     padding-left: 20px;
 }
-.md-gutter-40 .md-column {
+.md-gutter-40.md-column {
   margin-top: -20px;
   margin-bottom: -20px;
 }
-.md-gutter-40 .md-column > .md-layout {
+.md-gutter-40.md-column > .md-layout {
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -348,11 +348,11 @@
     padding-right: 8px;
     padding-left: 8px;
   }
-  .md-gutter .md-column {
+  .md-gutter.md-column {
     margin-top: -8px;
     margin-bottom: -8px;
   }
-  .md-gutter .md-column > .md-layout {
+  .md-gutter.md-column > .md-layout {
     padding-top: 8px;
     padding-bottom: 8px;
   }
